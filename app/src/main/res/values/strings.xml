@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Last Try</string>
+    <string name="title_activity_weather">WeatherActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!--blog strings -->
+    <string name="line1">The average life expectancy in India would have been 1.7 years higher if the air pollution level were less than the minimal level causing health loss.</string>
+    <string name="line2"> “India has one of the highest annual average ambient particulate matter PM2·5 exposure levels in the world. In 2017, no state in India had an annual population weighted ambient particulate matter mean PM2·5 less than the WHO recommended level of 10 μg/m³, 45 and 77% of India’s population was exposed to mean PM2·5 more than 40 μg/m³, which is the recommended limit set by the National Ambient Air Quality Standards of India,” reads the article in The Lancet Planetary Health. PM 2.5 particles are those that are suspended in air and have a diameter lesser than 2.5 microns.</string>
+    <string name="line3">Greetings, Hope you are doing fine!. In today world, air pollution has become a very intense problem. It is the reason for a lot of disorders like ashthma, heart attacks, and otherbreathing related disorders. Thats why we thought, why not come up with an app that can let others know the air quality index of their current location and also the locations that they want to find. We are a group of students studying Bachelors of Engineering in Information Technology and this project is developed by three of us. Hope you guys like it and it helps you in your everyday curriculum. Thankyou. </string>
+    <string name="line4">The Air Quality Index (AQI) is used for reporting daily air quality. It tells you how clean or polluted your air is, and what associated health effects might be a concern for you. The AQI focuses on health effects you may experience within a few hours or days after breathing polluted air.</string>
+
+
+</resources>
